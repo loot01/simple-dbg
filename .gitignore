@@ -1,2 +1,3 @@
 simple-dbg
 .gdb_history
+*.swp
