@@ -10,7 +10,9 @@ Then execute the binary: `./simple-dbg`
 
 [X] Handle flags & arguments
 
-[_] Open binary file and parse it correctly
+[X] Basic binary file parsing
+
+[_] More advanced file parsing (parsing assembly correctly)
 
 [_] Figure our how debuggers work
 
